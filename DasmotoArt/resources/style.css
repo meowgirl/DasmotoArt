@@ -1,7 +1,6 @@
 header {
   background-image: url("./pattern.jpeg");
   background-position: center;
-
 }
 
 a:link {
@@ -16,16 +15,15 @@ a:visited {
 a:hover {
   font-size:120%;
 }
+
 h1{
   font-size: 100px;
-  font-weight: bold;
   color: khaki;
   text-align: center;
 }
 
 h2{
   font-size: 32px;
-  font-weight: bold;
   color: white;
   padding: 10px 20px;
 }
@@ -38,15 +36,16 @@ body {
   font-weight: bold;
   color: blue;
 }
-#one{
+
+#brushes h2 {
   background-color: mediumspringgreen;
 }
 
-#two{
+#frames h2 {
   background-color: lightcoral;
 }
 
-#three {
+#paint h2 {
   background-color: skyblue;
 }
 
